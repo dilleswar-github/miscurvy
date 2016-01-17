@@ -1,0 +1,13 @@
+allow user to upload the product from the frontend.
+
+share me the details of contact us.
+
+my account :
+products list
+statistics on product
+
+notification page :
+
+
+view order of products :
+
